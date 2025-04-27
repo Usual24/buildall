@@ -10,7 +10,7 @@
 설치: 마우스 우클릭  
 파괴: 마우스 좌클릭  
 
-***"사용 라이브러리"***
+***"사용 라이브러리"***  
 사용된 라이브러리를 설치하려면 명령프롬포트(cmd) 에 이 명령어를 입력하세요:  
 pip install os, sys, json, random, threading, csv, ursina  
   
